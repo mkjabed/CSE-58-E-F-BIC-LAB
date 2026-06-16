@@ -1,1 +1,2 @@
-d
+ting Index: {i}")
+    if pattern =
